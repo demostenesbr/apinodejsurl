@@ -1,0 +1,1212 @@
+[
+  {
+    "firstName": "ADRIANO",
+    "lastName": null,
+    "gender": 1,
+    "dateOfBirth": "1980-10-26",
+    "identityNumber": "21984176854",
+    "primaryPhone": "(11) 94745-5221",
+    "secondPhone": null,
+    "address": {
+      "postCode": "03704000",
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "Brasil",
+      "street": "Avenida Condessa Elisabeth de Robiano",
+      "district": "Jardim América da Penha",
+      "complement": "Sala 2",
+      "number": 44
+    },
+    "createdAt": "2022-06-04 21:30:31",
+    "updatedAt": "2022-06-04 21:38:24",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "adm@marketplaceclube.com.br",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Testes Flexy",
+    "lastName": null,
+    "gender": 1,
+    "dateOfBirth": "1970-04-15",
+    "identityNumber": "09686119310",
+    "primaryPhone": "(48) 99999-9999",
+    "secondPhone": null,
+    "address": {
+      "postCode": "88090400",
+      "city": "Florianópolis",
+      "state": "SC",
+      "country": "Brasil",
+      "street": "Rua Senador Alberto Pasqualine",
+      "district": "Coloninha",
+      "complement": "Business Decor, Sala 05, Flexy",
+      "number": 5025
+    },
+    "createdAt": "2022-07-19 11:44:16",
+    "updatedAt": "2022-07-19 11:44:16",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "testes@flexy.com.br",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "James Mota Esteves",
+    "lastName": null,
+    "gender": 1,
+    "dateOfBirth": "1976-02-12",
+    "identityNumber": "78168767004",
+    "primaryPhone": "(48) 99105-0371",
+    "secondPhone": null,
+    "address": {
+      "postCode": "88034000",
+      "city": "Florianópolis",
+      "state": "SC",
+      "country": "Brasil",
+      "street": "Rodovia Admar Gonzaga",
+      "district": "Itacorubi",
+      "complement": null,
+      "number": 1853
+    },
+    "createdAt": "2022-06-09 15:50:21",
+    "updatedAt": "2022-07-26 16:24:26",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "contato@angratres.com.br",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Simone Lopes",
+    "lastName": null,
+    "gender": 0,
+    "dateOfBirth": "1981-03-13",
+    "identityNumber": "31711001856",
+    "primaryPhone": "(11) 97996-8971",
+    "secondPhone": null,
+    "address": {
+      "postCode": "04673050",
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "Brasil",
+      "street": "Rua Aguaraíba",
+      "district": "Vila Anhangüera",
+      "complement": null,
+      "number": 209
+    },
+    "createdAt": "2022-10-11 15:12:33",
+    "updatedAt": "2022-10-11 15:12:33",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "gestao@marketplaceclube.com.br",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Ana Claudia Romano de Lima",
+    "lastName": null,
+    "gender": 0,
+    "dateOfBirth": "1987-06-01",
+    "identityNumber": "34938428806",
+    "primaryPhone": "(48) 99682-2224",
+    "secondPhone": null,
+    "address": {
+      "postCode": "88060208",
+      "city": "Florianópolis",
+      "state": "SC",
+      "country": "Brasil",
+      "street": "Servidão Novas Palmeiras",
+      "district": "São João do Rio Vermelho",
+      "complement": null,
+      "number": 47
+    },
+    "createdAt": "2022-10-11 16:09:46",
+    "updatedAt": "2022-10-11 16:27:30",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "ana.lima@flexy.com.br",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Marina",
+    "lastName": null,
+    "gender": 0,
+    "dateOfBirth": "1997-04-18",
+    "identityNumber": "37039445018",
+    "primaryPhone": "(49) 00000-0000",
+    "secondPhone": null,
+    "address": {
+      "postCode": "88032000",
+      "city": "Florianópolis",
+      "state": "SC",
+      "country": "Brasil",
+      "street": "Rodovia Virgílio Várzea",
+      "district": "Monte Verde",
+      "complement": null,
+      "number": 11
+    },
+    "createdAt": "2022-10-13 09:37:28",
+    "updatedAt": "2022-10-13 09:37:28",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "marina.colombo.pereira@gmail.com",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "identityNumber": "03734015000171",
+    "companyName": "Teste PJ",
+    "tradeName": "Teste PJ",
+    "responsible": "Teste PJ",
+    "freeStateRegistration": false,
+    "stateRegistration": "ISENTO",
+    "primaryPhone": "(11) 99999-9999",
+    "secondPhone": null,
+    "address": {
+      "postCode": "88034000",
+      "city": "Florianópolis",
+      "state": "SC",
+      "country": "Brasil",
+      "street": "Rodovia Admar Gonzaga",
+      "district": "Itacorubi",
+      "complement": null,
+      "number": 1853
+    },
+    "createdAt": "2022-10-17 11:46:50",
+    "updatedAt": "2022-10-17 11:46:50",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "sac@produtosfuncionais.com.br",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "identityNumber": "77767111000152",
+    "companyName": "Teste PJ 2",
+    "tradeName": "Teste PJ 2",
+    "responsible": "Teste PJ 2",
+    "freeStateRegistration": false,
+    "stateRegistration": "ISENTO",
+    "primaryPhone": "(11) 99999-9999",
+    "secondPhone": null,
+    "address": {
+      "postCode": "88034000",
+      "city": "Florianópolis",
+      "state": "SC",
+      "country": "Brasil",
+      "street": "Rodovia Admar Gonzaga",
+      "district": "Itacorubi",
+      "complement": null,
+      "number": 1818
+    },
+    "createdAt": "2022-10-18 11:23:36",
+    "updatedAt": "2022-10-18 11:23:36",
+    "customerType": {
+      "name": "Consumidor PJ",
+      "referenceCode": "01",
+      "usesTaxSubstitution": false,
+      "priceList": {
+        "name": "Lista de Preço - PJ",
+        "referenceCode": "lista-de-preco-pj"
+      }
+    },
+    "priceList": null,
+    "email": "suporte@produtosfuncionais.com.br",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "identityNumber": "45235724000152",
+    "companyName": "Anderson",
+    "tradeName": "Ac.exclusif",
+    "responsible": "Anderson",
+    "freeStateRegistration": false,
+    "stateRegistration": "SP",
+    "primaryPhone": "(11) 98467-3326",
+    "secondPhone": null,
+    "address": {
+      "postCode": "03921100",
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "Brasil",
+      "street": "Rua Raio de Sol",
+      "district": "Jardim Iva",
+      "complement": null,
+      "number": 36
+    },
+    "createdAt": "2022-11-02 14:59:58",
+    "updatedAt": "2022-11-02 15:02:09",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "afidelis941@gmail.com",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Roberto Victor Iago Moreira",
+    "lastName": null,
+    "gender": 1,
+    "dateOfBirth": "1986-09-06",
+    "identityNumber": "95350434802",
+    "primaryPhone": "(83) 2570-9323",
+    "secondPhone": null,
+    "address": {
+      "postCode": "58028365",
+      "city": "João Pessoa",
+      "state": "PB",
+      "country": "Brasil",
+      "street": "Rua Claudio Cavalcante Procópio",
+      "district": "Ipês",
+      "complement": null,
+      "number": 3242
+    },
+    "createdAt": "2022-11-16 22:25:19",
+    "updatedAt": "2022-11-16 22:25:19",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "teste@gmail.com",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Ezequiel de Oliveira Bittencourt Junior",
+    "lastName": null,
+    "gender": 1,
+    "dateOfBirth": "2001-03-03",
+    "identityNumber": "50670231800",
+    "primaryPhone": "(11) 94293-1232",
+    "secondPhone": null,
+    "address": {
+      "postCode": "03676040",
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "Brasil",
+      "street": "Rua Breno Acioli",
+      "district": "Jardim Três Marias",
+      "complement": null,
+      "number": 584
+    },
+    "createdAt": "2023-02-16 14:42:58",
+    "updatedAt": "2023-02-16 14:42:58",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "contato.hzkdesign@gmail.com",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": null,
+    "gender": 1,
+    "dateOfBirth": "2001-09-15",
+    "identityNumber": "12241730904",
+    "primaryPhone": "(48) 98857-2164",
+    "secondPhone": null,
+    "address": {
+      "postCode": "03617000",
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "Brasil",
+      "street": "Rua Cláudia",
+      "district": "Vila Marieta",
+      "complement": null,
+      "number": 44
+    },
+    "createdAt": "2023-03-22 14:55:05",
+    "updatedAt": "2023-03-22 14:55:05",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "pedro43927@gmail.com",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Rosemary José da Silva",
+    "lastName": null,
+    "gender": 0,
+    "dateOfBirth": "1957-04-23",
+    "identityNumber": "65583850744",
+    "primaryPhone": "(22) 99265-5107",
+    "secondPhone": null,
+    "address": {
+      "postCode": "28250000",
+      "city": "Italva",
+      "state": "RJ",
+      "country": "Brasil",
+      "street": "Rua Manoel Ferreira dos Santos 361",
+      "district": "Centro",
+      "complement": "Casa",
+      "number": 361
+    },
+    "createdAt": "2023-04-03 18:13:27",
+    "updatedAt": "2023-04-03 18:13:27",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "rosemaryj.silva@hotmail.com",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Alexandre Giusti Coronato",
+    "lastName": null,
+    "gender": 1,
+    "dateOfBirth": "1977-04-03",
+    "identityNumber": "26194710870",
+    "primaryPhone": "(11) 91070-3853",
+    "secondPhone": null,
+    "address": {
+      "postCode": "05415001",
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "Brasil",
+      "street": "Rua Joaquim Antunes",
+      "district": "Pinheiros",
+      "complement": "Apto 61",
+      "number": 620
+    },
+    "createdAt": "2023-05-06 21:31:10",
+    "updatedAt": "2023-05-06 21:31:10",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "gcalex@terra.com.br",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Emily Daiane Alves",
+    "lastName": null,
+    "gender": 0,
+    "dateOfBirth": "1947-02-03",
+    "identityNumber": "17399452806",
+    "primaryPhone": "(47) 98606-6541",
+    "secondPhone": null,
+    "address": {
+      "postCode": "88317537",
+      "city": "Itajaí",
+      "state": "SC",
+      "country": "Brasil",
+      "street": "Rua Pierre Estanislau",
+      "district": "Santa Regina",
+      "complement": null,
+      "number": 916
+    },
+    "createdAt": "2023-05-22 11:11:02",
+    "updatedAt": "2023-05-22 11:11:02",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "teste2@gmail.com",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "identityNumber": "48963690000100",
+    "companyName": "INOVA VEGAN ORGANIC LTDA",
+    "tradeName": "inova",
+    "responsible": "SHEILA",
+    "freeStateRegistration": false,
+    "stateRegistration": "442663298114",
+    "primaryPhone": "(11) 97482-8429",
+    "secondPhone": null,
+    "address": {
+      "postCode": "09310560",
+      "city": "Mauá",
+      "state": "SP",
+      "country": "Brasil",
+      "street": "Rua Carlos Gomes",
+      "district": "Vila Bocaina",
+      "complement": null,
+      "number": 137
+    },
+    "createdAt": "2023-05-31 15:37:14",
+    "updatedAt": "2023-05-31 15:37:14",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "sheilaasantos@hotmail.com",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Adriano Pianco dos Santos",
+    "lastName": null,
+    "gender": 0,
+    "dateOfBirth": "1980-10-26",
+    "identityNumber": "36881059825",
+    "primaryPhone": "(11) 94745-5221",
+    "secondPhone": null,
+    "address": {
+      "postCode": "03617000",
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "Brasil",
+      "street": "Rua Cláudia",
+      "district": "Vila Marieta",
+      "complement": "Sala 2",
+      "number": 44
+    },
+    "createdAt": "2023-03-10 11:51:01",
+    "updatedAt": "2023-06-04 13:38:25",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "adripiancosp@gmail.com",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Luciano Steyer",
+    "lastName": null,
+    "gender": 1,
+    "dateOfBirth": "1966-07-29",
+    "identityNumber": "51600773087",
+    "primaryPhone": "(41) 99669-9420",
+    "secondPhone": null,
+    "address": {
+      "postCode": "81550360",
+      "city": "Curitiba",
+      "state": "PR",
+      "country": "Brasil",
+      "street": "Rua do Camacuan",
+      "district": "Uberaba",
+      "complement": null,
+      "number": 605
+    },
+    "createdAt": "2023-06-12 18:02:36",
+    "updatedAt": "2023-06-12 18:02:36",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "luciano@delasmarket.com.br",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Vitor Garcia Barriro",
+    "lastName": null,
+    "gender": 1,
+    "dateOfBirth": "2002-10-14",
+    "identityNumber": "51291965890",
+    "primaryPhone": "(11) 96427-9669",
+    "secondPhone": null,
+    "address": {
+      "postCode": "08431650",
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "Brasil",
+      "street": "Rua Galdino Nascimento",
+      "district": "Parque Guaianazes",
+      "complement": "31",
+      "number": 31
+    },
+    "createdAt": "2023-07-25 12:04:34",
+    "updatedAt": "2023-07-25 12:04:34",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "vitor.garcia.barreiro@gmail.com",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "maria silvia janardi barrera",
+    "lastName": null,
+    "gender": 0,
+    "dateOfBirth": "1962-10-23",
+    "identityNumber": "10106404881",
+    "primaryPhone": "(11) 98514-5925",
+    "secondPhone": null,
+    "address": {
+      "postCode": "03648020",
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "Brasil",
+      "street": "Rua Evans",
+      "district": "Vila Esperança",
+      "complement": "104",
+      "number": 738
+    },
+    "createdAt": "2023-07-31 14:39:01",
+    "updatedAt": "2023-07-31 14:39:01",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "silviajanardi@yahoo.com.br",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Maria Yasmim Cutrim Serra",
+    "lastName": null,
+    "gender": 0,
+    "dateOfBirth": "1992-08-14",
+    "identityNumber": "00826440207",
+    "primaryPhone": "(48) 99662-7107",
+    "secondPhone": null,
+    "address": {
+      "postCode": "88040440",
+      "city": "Florianópolis",
+      "state": "SC",
+      "country": "Brasil",
+      "street": "Rua Marcus Aurélio Homem",
+      "district": "Carvoeira",
+      "complement": "Apto 304 - BL B",
+      "number": 165
+    },
+    "createdAt": "2023-09-10 20:20:09",
+    "updatedAt": "2023-09-10 20:20:09",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "contatotokalaverde@gmail.com",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Carlos Alberto dos Santos",
+    "lastName": null,
+    "gender": 1,
+    "dateOfBirth": "1972-12-15",
+    "identityNumber": "11479714801",
+    "primaryPhone": "(11) 98644-3929",
+    "secondPhone": null,
+    "address": {
+      "postCode": "02728050",
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "Brasil",
+      "street": "Rua Manuel Correia",
+      "district": "Vila Palmeiras",
+      "complement": "Apto 81",
+      "number": 238
+    },
+    "createdAt": "2023-09-11 15:45:47",
+    "updatedAt": "2023-09-11 15:45:47",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "csantos1512@gmail.com",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Vanessa Pezopoulos de Castro",
+    "lastName": null,
+    "gender": 0,
+    "dateOfBirth": "1972-05-05",
+    "identityNumber": "13519993899",
+    "primaryPhone": "(11) 99938-3444",
+    "secondPhone": null,
+    "address": {
+      "postCode": "05303000",
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "Brasil",
+      "street": "Rua Carlos Weber",
+      "district": "Vila Leopoldina",
+      "complement": "apto 181 bloco 3",
+      "number": 950
+    },
+    "createdAt": "2023-09-11 21:21:51",
+    "updatedAt": "2023-09-11 21:21:51",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "vpezopoulos@gmail.com",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Alexandre Moreira da Silva",
+    "lastName": null,
+    "gender": 1,
+    "dateOfBirth": "1988-05-16",
+    "identityNumber": "35232329880",
+    "primaryPhone": "(27) 99889-8763",
+    "secondPhone": null,
+    "address": {
+      "postCode": "29102090",
+      "city": "Vila Velha",
+      "state": "ES",
+      "country": "Brasil",
+      "street": "Rua Itapemirim",
+      "district": "Praia de Itaparica",
+      "complement": null,
+      "number": 80
+    },
+    "createdAt": "2023-09-20 00:08:42",
+    "updatedAt": "2023-09-20 00:08:42",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "alexandremdev@gmail.com",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "rosana aparecida dos santos",
+    "lastName": null,
+    "gender": 0,
+    "dateOfBirth": "1979-08-23",
+    "identityNumber": "05386169971",
+    "primaryPhone": "(44) 99880-6810",
+    "secondPhone": null,
+    "address": {
+      "postCode": "86975000",
+      "city": "Mandaguari",
+      "state": "PR",
+      "country": "Brasil",
+      "street": "luiz trintinalha",
+      "district": "jardim esplanada",
+      "complement": "casa",
+      "number": 1165
+    },
+    "createdAt": "2023-09-28 14:55:52",
+    "updatedAt": "2023-09-28 14:58:29",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "aparecidadossantosrosana7@gmail.com",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Fabio José Aiello Junior",
+    "lastName": null,
+    "gender": 1,
+    "dateOfBirth": "2004-04-17",
+    "identityNumber": "53544687879",
+    "primaryPhone": "(11) 99488-2284",
+    "secondPhone": null,
+    "address": {
+      "postCode": "02407080",
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "Brasil",
+      "street": "Rua Antônio Ribeiro",
+      "district": "Água Fria",
+      "complement": null,
+      "number": 54
+    },
+    "createdAt": "2023-11-01 15:18:07",
+    "updatedAt": "2023-11-01 15:18:07",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "junioriello32@gmail.com",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Gleidson Goncalves",
+    "lastName": null,
+    "gender": 1,
+    "dateOfBirth": "1995-05-12",
+    "identityNumber": "16105385790",
+    "primaryPhone": "(12) 98862-0785",
+    "secondPhone": null,
+    "address": {
+      "postCode": "06530300",
+      "city": "Santana de Parnaíba",
+      "state": "SP",
+      "country": "Brasil",
+      "street": "Rua Piauí",
+      "district": "Recanto Silvestre (Fazendinha)",
+      "complement": null,
+      "number": 715
+    },
+    "createdAt": "2023-11-06 00:53:55",
+    "updatedAt": "2023-11-06 00:53:55",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "Gleidson9595@hotmail.com",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Francesco Schembri",
+    "lastName": null,
+    "gender": 1,
+    "dateOfBirth": "1976-03-05",
+    "identityNumber": "16370993808",
+    "primaryPhone": "(11) 99589-1998",
+    "secondPhone": null,
+    "address": {
+      "postCode": "03114000",
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "Brasil",
+      "street": "Avenida Paes de Barros",
+      "district": "Mooca",
+      "complement": "Ap. 94",
+      "number": 1006
+    },
+    "createdAt": "2023-11-21 14:17:00",
+    "updatedAt": "2023-11-21 14:17:00",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "fschembri@ig.com.br",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Josino Gonçalves Cruz Neto",
+    "lastName": null,
+    "gender": 1,
+    "dateOfBirth": "1987-12-14",
+    "identityNumber": "22949756859",
+    "primaryPhone": "(11) 98097-1778",
+    "secondPhone": null,
+    "address": {
+      "postCode": "04851103",
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "Brasil",
+      "street": "Rua Paola",
+      "district": "Recanto Marisa",
+      "complement": null,
+      "number": 75
+    },
+    "createdAt": "2023-12-01 07:52:21",
+    "updatedAt": "2023-12-01 07:52:21",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "josino8714@gmail.com",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Viviane da Silva Gonçalves",
+    "lastName": null,
+    "gender": 0,
+    "dateOfBirth": "1989-02-23",
+    "identityNumber": "88218201815",
+    "primaryPhone": "(11) 98097-2056",
+    "secondPhone": null,
+    "address": {
+      "postCode": "04851103",
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "Brasil",
+      "street": "Rua Paola",
+      "district": "Recanto Marisa",
+      "complement": null,
+      "number": 75
+    },
+    "createdAt": "2023-12-01 08:06:25",
+    "updatedAt": "2023-12-01 08:06:25",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "viviane.sg08@gmail.com",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Samara Laine Arias",
+    "lastName": null,
+    "gender": 0,
+    "dateOfBirth": "1994-01-14",
+    "identityNumber": "43612246844",
+    "primaryPhone": "(13) 99641-9465",
+    "secondPhone": null,
+    "address": {
+      "postCode": "11702705",
+      "city": "Praia Grande",
+      "state": "SP",
+      "country": "Brasil",
+      "street": "av presidente castelo branco",
+      "district": "Aviaçao",
+      "complement": "apto 92",
+      "number": 4520
+    },
+    "createdAt": "2023-12-12 09:44:08",
+    "updatedAt": "2023-12-12 09:44:08",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "gerencia@costafire.com.br",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Vitorio",
+    "lastName": "Janone de Magalhães",
+    "gender": null,
+    "dateOfBirth": null,
+    "identityNumber": "0",
+    "primaryPhone": null,
+    "secondPhone": null,
+    "address": null,
+    "createdAt": "2023-12-27 15:34:53",
+    "updatedAt": "2023-12-27 15:34:53",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "vitorio.magalhaes@flexy.com.br",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Flexy",
+    "lastName": "Comunicação Interna",
+    "gender": null,
+    "dateOfBirth": null,
+    "identityNumber": "0",
+    "primaryPhone": null,
+    "secondPhone": null,
+    "address": null,
+    "createdAt": "2023-12-27 15:51:33",
+    "updatedAt": "2023-12-27 15:51:33",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "flexy@flexy.com.br",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Antonio",
+    "lastName": "Gonçalves",
+    "gender": null,
+    "dateOfBirth": null,
+    "identityNumber": "0",
+    "primaryPhone": null,
+    "secondPhone": null,
+    "address": null,
+    "createdAt": "2023-12-27 16:05:06",
+    "updatedAt": "2023-12-27 16:05:06",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "antonio.goncalves@flexy.com.br",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Evolution",
+    "lastName": "Tech",
+    "gender": null,
+    "dateOfBirth": null,
+    "identityNumber": "0",
+    "primaryPhone": null,
+    "secondPhone": null,
+    "address": null,
+    "createdAt": "2023-12-28 11:13:43",
+    "updatedAt": "2023-12-28 11:13:43",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "projetosevolutiontech@gmail.com",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "MARKETPLACE",
+    "lastName": "CLUBE",
+    "gender": null,
+    "dateOfBirth": null,
+    "identityNumber": "0",
+    "primaryPhone": null,
+    "secondPhone": null,
+    "address": null,
+    "createdAt": "2023-12-28 13:18:22",
+    "updatedAt": "2023-12-28 13:18:22",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "marketplaceclube@gmail.com",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "TESTE TESTANDO",
+    "lastName": null,
+    "gender": 0,
+    "dateOfBirth": "1998-12-13",
+    "identityNumber": "51196833044",
+    "primaryPhone": "(11) 98765-4321",
+    "secondPhone": null,
+    "address": {
+      "postCode": "22441000",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "country": "Brasil",
+      "street": "Avenida Delfim Moreira",
+      "district": "Leblon",
+      "complement": "casa",
+      "number": 1055
+    },
+    "createdAt": "2024-01-03 17:17:42",
+    "updatedAt": "2024-01-03 17:17:42",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "teste33@gmail.com",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Paula de Moura Lorena",
+    "lastName": null,
+    "gender": 0,
+    "dateOfBirth": "2002-01-01",
+    "identityNumber": "38249019865",
+    "primaryPhone": "(11) 98000-8295",
+    "secondPhone": null,
+    "address": {
+      "postCode": "08440010",
+      "city": "São Paulo",
+      "state": "SP",
+      "country": "Brasil",
+      "street": "Rua Inês de Castro",
+      "district": "Jardim Guaianazes",
+      "complement": null,
+      "number": 41
+    },
+    "createdAt": "2024-01-14 13:42:32",
+    "updatedAt": "2024-01-14 13:42:32",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "paula.mlorena@gmail.com",
+    "attributeValues": [
+      
+    ]
+  },
+  {
+    "firstName": "Roberta Alice Neris do Rosário Melz",
+    "lastName": null,
+    "gender": 0,
+    "dateOfBirth": "1989-09-26",
+    "identityNumber": "07278605938",
+    "primaryPhone": "(47) 99280-6789",
+    "secondPhone": null,
+    "address": {
+      "postCode": "88220000",
+      "city": "Itapema",
+      "state": "SC",
+      "country": "Brasil",
+      "street": "299",
+      "district": "Meia Praia",
+      "complement": "Ap 202 - Cond. Von Buettner",
+      "number": 15
+    },
+    "createdAt": "2024-01-31 18:54:19",
+    "updatedAt": "2024-01-31 18:54:19",
+    "customerType": {
+      "name": "Consumidor",
+      "referenceCode": "default.customer",
+      "usesTaxSubstitution": false,
+      "priceList": null
+    },
+    "priceList": null,
+    "email": "roberta.neris@hotmail.com",
+    "attributeValues": [
+      
+    ]
+  }
+]
